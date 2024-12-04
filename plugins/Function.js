@@ -1,7 +1,7 @@
 const { cmd } = require('../command')
 const fs = require('fs');
 const path = require('path');
-const {readEnv} = require('../lib/database')
+const {readEnv} = require('../lib/githubdb')
 const config = require('../config')
 
 //auto_voice
