@@ -3,7 +3,7 @@ const fs = require('fs');
 const path = require('path');
 const {readEnv} = require('../lib/database')
 const config = require('../config')
-
+/*
 //auto_voice
 cmd({
   on: "body"
@@ -60,7 +60,7 @@ async (conn, mek, m, { from, body, isOwner }) => {
         }
     }                
 });                  
-
+*/
 //auto recording
 cmd({
   on: "body"
