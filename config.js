@@ -8,6 +8,6 @@ function convertToBool(text, fault = 'true') {
 module.exports = {
     SESSION_ID: process.env.SESSION_ID || '2NEQBJgR#wAhZrO3Foaybk8_dqHAUQmJHcPWpUTCcTNNpY4HP-hE', // Enter Your Session ID
     GITHUB_USERNAME: process.env.GITHUB_USERNAME === undefined ? 'sl-nethu-max': process.env.GITHUB_USERNAME,
-    GITHUB_AUTH_TOKEN: process.env.GITHUB_AUTH_TOKEN === undefined ? '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': process.env.GITHUB_AUTH_TOKEN
+    GITHUB_AUTH_TOKEN: process.env.GITHUB_AUTH_TOKEN === undefined ? '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': process.env.GITHUB_AUTH_TOKEN
 };
 
